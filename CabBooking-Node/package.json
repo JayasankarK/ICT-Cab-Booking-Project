@@ -1,0 +1,19 @@
+{
+  "name": "cabserver",
+  "version": "1.0.0",
+  "description": "Backend of Night cab booking system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jayasankar K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.2"
+  },
+  "engines": {
+    "node": "10.13.0"
+  }
+}
